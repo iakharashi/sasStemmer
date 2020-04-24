@@ -2,5 +2,5 @@
 clean(txt) {
     t = txt
     # finish and return
-    return t
+    return t  # for now
 }
